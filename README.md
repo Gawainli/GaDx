@@ -1,4 +1,7 @@
 GaDx
 ====
 
-DirectX11
+DX11
+Deferred shading
+Message driven
+Resource
